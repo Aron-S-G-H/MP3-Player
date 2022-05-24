@@ -10,12 +10,17 @@
 ## Requirements
 - <a href='https://docs.python.org/3/library/tkinter.html'>Tkinter Library</a>
 - <a href='https://www.pygame.org/'>Pygame Library</a>
+- <a href='https://pillow.readthedocs.io/'>Pillow Library</a>
+- <a href='https://pypi.org/project/pynput/'>Pynput Library</a>
 - <a href='https://docs.python.org/3/library/threading.html'>Threading Module</a>
 
 ## How to install
 - git clone https://github.com/Arone-S-G-H/MP3-Player
 - pip install tk
 - pip install pygame
+- pip install pynput
+- pip install pillow
+- python3 main.py
 
 ## Result
 <p align="center">
