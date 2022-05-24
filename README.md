@@ -19,5 +19,5 @@
 
 ## Result
 <p align="center">
-  <img src="https://github.com/Arone-S-G-h/MP3Player/blob/main/Result/result.png">
+  <img src="https://github.com/Arone-S-G-h/MP3-Player/blob/main/Result/result.png">
 </p>
