@@ -14,14 +14,6 @@
 - <a href='https://pypi.org/project/pynput/'>Pynput Library</a>
 - <a href='https://docs.python.org/3/library/threading.html'>Threading Module</a>
 
-## How to install
-- git clone https://github.com/Arone-S-G-H/MP3-Player
-- pip install tk
-- pip install pygame
-- pip install pynput
-- pip install pillow
-- python3 main.py
-
 ## Result
 <p align="center">
   <img src="https://github.com/Arone-S-G-h/MP3-Player/blob/main/Result/result.png">
